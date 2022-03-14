@@ -4,7 +4,7 @@
 - Gives users a user firendly application that can help track their income and expenses in a quick and easy manner, This app allows the users to enter the info they want manually. Having access to this while offline can also be needed so having an offline functionality is a great aspect to this app.
 
 ### App Deployment Link 
-- https://lopez-pwa-tracker.herokuapp.com/
+- https://pwa-tracker-lopez.herokuapp.com/
 
 ### App Walkthrough Video 
 - https://youtu.be/h56nR5ypTBk
