@@ -7,7 +7,7 @@
 - https://lopez-pwa-tracker.herokuapp.com/
 
 ### App Walkthrough Video 
-- 
+- https://youtu.be/h56nR5ypTBk
 
 ### User Story 
 - AS AN avid Traveler
