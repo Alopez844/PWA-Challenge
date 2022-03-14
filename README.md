@@ -1,7 +1,7 @@
 # PWA-Budeget Tracker
 
 ### Description 
-- Gives users a user firendly application that can help track their income and expenses in a quick and easy manner, This app allows the users to enter the info they want manually. Having access to this while offline can also be needed so having an offline functionality is a great aspect to this app.
+- Gives users a user firendly application that can help track their income and expenses in a quick and easy manner, This app also allows the users to enter the info they want manually. Having access to this while offline can also be needed so having an offline functionality is a great aspect to this app.
 
 ### App Deployment Link 
 - https://pwa-tracker-lopez.herokuapp.com/
